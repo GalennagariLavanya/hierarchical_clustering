@@ -17,6 +17,17 @@
 ![image](https://github.com/GalennagariLavanya/hierarchical_clustering/assets/143246929/c23775ef-1822-42c5-a5cb-f0794ac44ae3)
 # Conclusion:
 According to the model building as a engineer my prediction is cluster no 3 as give highest no of linkage.
+# Insights:
+1.cluster1 contains(Red) which shows that unsupervised learning cluster as maximum distance from the centroid upto annual income approximate 139ks
+
+2.cluster2 contains(blue) which shows that unsupervised learning cluster as maximum uclinding distance from the centroid up to annual income approximately 79 to 80ks.
+
+3.cluster3 contains (green) which shows that unsupervised learning cluster as maximum distance from the centroid up to annual income approximately 139.
+
+4.cluster4 contains (cyan) which shows that unsupervised learning cluster as maximum distance from the centroid up to annual income approximately 40ks.
+
+5..cluster5 contains (magneta) which shows that unsupervised learning cluster as maximum distance from the centroid up to annual income approximately 40ks.
+
 
 
 
